@@ -12,6 +12,6 @@ Ahmed Barakat
 
 Feel free to reach out via email: [ahmedbarakat@gmail.com](mailto:ahmedbarakat@gmail.com)
 
----
+----
 
 Thanks for checking out my weather app! 🌦️
